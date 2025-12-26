@@ -1,16 +1,24 @@
-## Hi there 👋
+<div align="center">
+  <img src="https://raw.githubusercontent.com/ВАШ_USERNAME/ВАШ_РЕПО/main/images/banner.png" width="800">
+  <h1>Привет! Я [Ваше имя] 👋</h1>
+</div>
 
-<!--
-**deypie/deypie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌱 **Студент из Винницы** • Люблю физику, химию, игры (Stardew Valley, Pony Town) и растения (кактусы!).
 
-Here are some ideas to get you started:
+### 📚 Что изучаю
+- Физика и математика (школа + будущий финансовый колледж)
+- Программирование и GitHub
+- Биология растений и садоводство
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🎮 Хобби
+- Видеоигры и пиксель-арт
+- Чтение литературы (классика, поэзия)
+- Написание эссе и журналистика
+
+### 🌿 Мои растения
+![Кактус](https://raw.githubusercontent.com/ВАШ_USERNAME/ВАШ_РЕПО/main/images/cactus.jpg)
+
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-blue?style=flat&logo=github)](https://github.com/ВАШ_USERNAME)
+[![Steam](https://img.shields.io/badge/Steam-Games-green?style=flat&logo=steam)](https://steamcommunity.com/id/ВАШ_ID)
+
+**Свяжись со мной:** [email@example.com](mailto:email@example.com)
